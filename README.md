@@ -16,15 +16,10 @@ A neumorphic component design system for React. Neumorphism is a form of minimal
 
 ## Installation
 
-Install bun
-```bash
-  curl -fsSL https://bun.sh/install | bash
-```
-
 Install shadow-ui
 
 ```bash
-  bun install shadow-ui
+  npm i @amethyst-octopus/shadow-ui
 ```
 
 Select component(s) from [documentation](https://www.shadow-ui.com/)
